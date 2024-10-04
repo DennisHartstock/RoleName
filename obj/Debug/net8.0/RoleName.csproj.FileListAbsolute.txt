@@ -1,0 +1,14 @@
+D:\C#\RoleName\bin\Debug\net8.0\RoleName.exe
+D:\C#\RoleName\bin\Debug\net8.0\RoleName.deps.json
+D:\C#\RoleName\bin\Debug\net8.0\RoleName.runtimeconfig.json
+D:\C#\RoleName\bin\Debug\net8.0\RoleName.dll
+D:\C#\RoleName\bin\Debug\net8.0\RoleName.pdb
+D:\C#\RoleName\obj\Debug\net8.0\RoleName.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RoleName\obj\Debug\net8.0\RoleName.AssemblyInfoInputs.cache
+D:\C#\RoleName\obj\Debug\net8.0\RoleName.AssemblyInfo.cs
+D:\C#\RoleName\obj\Debug\net8.0\RoleName.csproj.CoreCompileInputs.cache
+D:\C#\RoleName\obj\Debug\net8.0\RoleName.dll
+D:\C#\RoleName\obj\Debug\net8.0\refint\RoleName.dll
+D:\C#\RoleName\obj\Debug\net8.0\RoleName.pdb
+D:\C#\RoleName\obj\Debug\net8.0\RoleName.genruntimeconfig.cache
+D:\C#\RoleName\obj\Debug\net8.0\ref\RoleName.dll
